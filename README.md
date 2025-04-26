@@ -1,4 +1,4 @@
-## PW EXTRACT BOT
+## PW & CP WITHOUT PURCHASE TXT EXTRACTOR 
 
 ## PRESS HEKOKU TO DEPLOY
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/)
