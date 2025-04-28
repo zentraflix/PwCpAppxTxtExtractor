@@ -2,7 +2,7 @@
 
 Fill the your api id,api hash & bot token in the config.py and main.py file
 
-Use 8080 port in main.py (line 59) ,if you're deploying on koyeb.
+Use 8080 port in main.py (line 57) ,if you're deploying on koyeb.
 
 
 ## Deploy To Heroku
